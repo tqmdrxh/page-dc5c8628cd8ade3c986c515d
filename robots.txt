@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ec14c9bfaf.yaoxj.cn/sitemap.xml
